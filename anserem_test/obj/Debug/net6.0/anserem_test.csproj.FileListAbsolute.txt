@@ -1,0 +1,15 @@
+C:\Users\Nonentity\Desktop\anserem_test\bin\Debug\net6.0\anserem_test.exe
+C:\Users\Nonentity\Desktop\anserem_test\bin\Debug\net6.0\anserem_test.deps.json
+C:\Users\Nonentity\Desktop\anserem_test\bin\Debug\net6.0\anserem_test.runtimeconfig.json
+C:\Users\Nonentity\Desktop\anserem_test\bin\Debug\net6.0\anserem_test.dll
+C:\Users\Nonentity\Desktop\anserem_test\bin\Debug\net6.0\anserem_test.pdb
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.csproj.AssemblyReference.cache
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.AssemblyInfoInputs.cache
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.AssemblyInfo.cs
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.csproj.CoreCompileInputs.cache
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.dll
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\refint\anserem_test.dll
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.pdb
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\anserem_test.genruntimeconfig.cache
+C:\Users\Nonentity\Desktop\anserem_test\obj\Debug\net6.0\ref\anserem_test.dll
